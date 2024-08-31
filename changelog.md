@@ -1,0 +1,3 @@
+本文件根据**[vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project)**创建Airspace.txt，版权归@[supermastergui](https://github.com/supermastergui)所有，协议使用与原始项目相同的[CC-BY-SA-4.0 license](https://github.com/vatsimnetwork/vatspy-data-project#CC-BY-SA-4.0-1-ov-file)。
+
+This document is based on **[vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project)** Created Airspace.txt, copyrighted by @[supermastergui](https://github.com/supermastergui), with protocols using the same [CC-BY-SA-4.0 license](https://github.com/vatsimnetwork/vatspy-data-project#CC-BY-SA-4.0-1-ov-file) as the original project.
